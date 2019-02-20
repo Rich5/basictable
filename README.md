@@ -26,7 +26,7 @@ records are required to have the same number of columns and same heading values 
 ```
 # Usage
 
-```python
+```bash
 >>> from basictable import print_table
 >>> data = []
 >>> for i in range(20):
