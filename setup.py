@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="basictable",
-    version="1.0.0",
+    version="1.0.1",
     author="Rich Kelley",
     author_email="rk5devmail@gmail.com",
     description="A small library to print structured data tables",
